@@ -1,0 +1,80 @@
+/*Aligns the Website button within the Designer's portrait image*/
+.allsup-m, .amaya-m, .andersen-m, .andregg-m, .aruta-m, .asghari-m, .bills-m, .bruch-m, .buford-m, .castanon-m, .cervantes-m, .diaz-m, .espinoza-m, .farley-m, .georgeovich-m, .gezalian-m, .gonzalez-m, .green-m, .gregg-m, .guidi-m, .han-m, .hatzor-m, .hernandez-m, .ito-m, .iwasawa-m, .kaskla-m, .kim-m, .lopez-m, .ma-m, .mou-m, .nguyen-m, .nicola-m, .phana-m, .phanc-m, .ralota-m, .ramireza-m, .ramirezj-m, .ramosa-m, .ramosn-m, .richardson-m, .russell-m, .schmidt-m, .sheum-m, .villa-m, .wang-m, .wei-m, .whitt-m, .wowor-m, .yoshimura-m {
+  display:inline;
+  position:relative;
+}
+
+/*Styling elements for the Website button*/
+.allsup-m a, .amaya-m a, .andersen-m a, .andregg-m a, .aruta-m a, .asghari-m a, .bills-m a, .bruch-m a, .buford-m a, .castanon-m a, .cervantes-m a, .diaz-m a, .espinoza-m a, .farley-m a, .georgeovich-m a, .gezalian-m a, .gonzalez-m a, .green-m a, .gregg-m a, .guidi-m a, .han-m a, .hatzor-m a, .hernandez-m a, .ito-m a, .iwasawa-m a, .kaskla-m a, .kim-m a, .lopez-m a, .ma-m a, .mou-m a, .nguyen-m a, .nicola-m a, .phana-m a, .phanc-m a, .ralota-m a, .ramireza-m a, ramirezj-m a, .ramosa-m a, .ramosn-m a, .richardson-m a, .russell-m a, .schmidt-m a, .sheum-m a, .villa-m a, .wang-m a, .wei-m a, .whitt-m a, .wowor-m a, .yoshimura-m a{
+  position: absolute;
+  bottom:1.5em;
+  right:1.5em;
+  background-color:#ffffff;
+  border-radius:1.5em;
+  color:black;
+  text-transform:uppercase;
+  padding:1em 1.5em;
+}
+
+/*Media query for desktop and mobile*/
+/*Cancels Desktop Image Hover and Hyperlink Image, activates CTA Website button on Mobile*/
+@media only screen and (min-width: 640px) {
+  .allsup-m, .amaya-m, .andersen-m, .andregg-m, .aruta-m, .asghari-m, .bills-m, .bruch-m, .buford-m, .castanon-m, .cervantes-m, .diaz-m, .espinoza-m, .farley-m, .georgeovich-m, .gezalian-m, .gonzalez-m, .green-m, .gregg-m, .guidi-m, .han-m, .hatzor-m, .hernandez-m, .ito-m, .iwasawa-m, .kaskla-m, .kim-m, .lopez-m, .ma-m, .mou-m, .nguyen-m, .nicola-m, .phana-m, .phanc-m, .ralota-m, .ramireza-m, .ramirezj-m, .ramosa-m, .ramosn-m, .richardson-m, .russell-m, .schmidt-m, .sheum-m, .villa-m, .wang-m, .wei-m, .whitt-m, .wowor-m, .yoshimura-m{
+    display:none;
+  }
+}
+
+/*Cancels CTA Website button on Mobile, activates Desktop Image Hover and Hyperlink Image*/
+@media only screen and (max-width: 640px) {
+  .allsup-d, .amaya-d, .andersen-d, .andregg-d, .aruta-d, .asghari-d, .bills-d, .bruch-d, .buford-d, .castanon-d, .cervantes-d, .diaz-d, .espinoza-d, .farley-d, .georgeovich-d, .gezalian-d, .gonzalez-d, .green-d, .gregg-d, .guidi-d, .han-d, .hatzor-d, .hernandez-d, .ito-d, .iwasawa-d, .kaskla-d, .kim-d, .lopez-d, .ma-d, .mou-d, .nguyen-d, .nicola-d, .phana-d, .phanc-d, .ralota-d, .ramireza-d, .ramirezj-d, .ramosa-d, .ramosn-d, .richardson-d, .russell-d, .schmidt-d, .sheum-d, .villa-d, .wang-d, .wei-d, .whitt-d, .wowor-d, .yoshimura-d{
+    display:none;
+  }
+}
+
+/*List of names below
+.andersen-
+.andregg-
+.aruta-
+.asghari-
+.bills-
+.bruch-
+.buford-
+.cervantes-
+.diaz-
+.espinoza-
+.farley-
+.georgeovich-
+.gezalian-
+.gonzalez-
+.green-
+.gregg-
+.guidi-
+.han-
+.hatzor-
+.hernandez-
+.ito-
+.iwasawa-
+.kaskla-
+.kim-
+.lopez-
+.ma-
+.mou-
+.nguyen-
+.nicola-
+.phana-
+.phanc-
+.ralota-
+.ramireza-
+.ramirezj-
+.ramosa-
+.ramosn-
+.richardson-
+.russell-
+.schmidt-
+.sheum-
+.villa-
+.wang-
+.wei-
+.whitt-
+.wowor-
+.yoshimura-
