@@ -6,12 +6,11 @@
 </head>
 
 <body>
-
-<!--Template below. Copy/paste for each student-->
+    
 <!--SENIOR NAME-->
 <!--Desktop-->
 <div class="LASTNAME-d">
-  <a href="WEBSITELINK"><img src="MAINIMAGE" onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='MAINIMAGE'"></a>
+  <a href="WEBSITELINK"><img src="MAINIMAGE"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='MAINIMAGE'"></a>
 </div>
 <!--Mobile-->
 <div class="LASTNAME-m">
@@ -243,11 +242,11 @@
     
 <!--GEZALIAN, KAT-->
 <!--Desktop-->
-<div class="gezelian-d">
+<div class="gezalian-d">
   <a href="https://katherinegezalian.wixsite.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ede6ee86164ffff74e74/1587801576499/gezalian_kat.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd2e8c40da37246bc4b18/1588384489780/gezalian_katherine.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ede6ee86164ffff74e74/1587801576499/gezalian_kat.jpg'"></a>
 </div>
 <!--Mobile-->
-<div class="gezelian-m">
+<div class="gezalian-m">
   <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ede6ee86164ffff74e74/1587801576499/gezalian_kat.jpg">
   <a href="https://katherinegezalian.wixsite.com/">Website</a>
 </div>
@@ -351,7 +350,7 @@
   <a href="https://kiwasawa.myportfolio.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8789503f2e480097b1/1587801737573/iwasawa_kazu.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd458c40da37246bc7e6d/1588384856290/Iwasawa_Kazu.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8789503f2e480097b1/1587801737573/iwasawa_kazu.jpg'"></a>
 </div>
 <!--Mobile-->
-<div class="iawasawa-m">
+<div class="iwasawa-m">
   <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8789503f2e480097b1/1587801737573/iwasawa_kazu.jpg">
   <a href="https://kiwasawa.myportfolio.com/">Website</a>
 </div>
@@ -594,11 +593,11 @@
 <!--WHITT, DONNA-->
 <!--Desktop-->
 <div class="whitt-d">
-  <a href="WEBSITELINK"><img src="ttps://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea426b18315084d6db703c8/1587816113292/Small.jpg'"onmouseout="this.src='ttps://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg'"></a>
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea426b18315084d6db703c8/1587816113292/Small.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg'"></a>
 </div>
 <!--Mobile-->
 <div class="whitt-m">
-  <img src="ttps://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg">
   <a href="WEBSITELINK">Website</a>
 </div>
        
