@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="PKdesignersStyle.css">
+</head>
+
+<body>
+
+<!--Template below. Copy/paste for each student-->
+<!--SENIOR NAME-->
+<!--Desktop-->
+<div class="LASTNAME-d">
+  <a href="WEBSITELINK"><img src="MAINIMAGE" onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='MAINIMAGE'"></a>
+</div>
+<!--Mobile-->
+<div class="LASTNAME-m">
+  <img src="MAINIMAGE">
+  <a href="WEBSITELINK">Website</a>
+</div>
+   
+    
+<!--ALLSUP, KELLY-->
+<!--Desktop-->
+<div class="allsup-d">
+  <a href="https://kelliallsup.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec693459dd34b6689d2e/1587801198136/allsup_kelli.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5e1b8585f39c41335c2486f0/t/5ea2744524f50167794599f4/1587704904645/pk_anaid_ramos.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec693459dd34b6689d2e/1587801198136/allsup_kelli.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="allsup-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec693459dd34b6689d2e/1587801198136/allsup_kelli.jpg">
+  <a href="https://kelliallsup.com/">Website</a>
+</div>
+
+    
+    
+<!--AMAYA, STEPHANIE-->
+<!--Desktop-->
+<div class="amaya-d">
+  <a href="https://www.stephamaya.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec78b1653635c3a7a00e/1587801208866/amaya_stephanie.jpg" onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec78b1653635c3a7a00e/1587801208866/amaya_stephanie.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="amaya-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec78b1653635c3a7a00e/1587801208866/amaya_stephanie.jpg">
+  <a href="https://www.stephamaya.com/">Website</a>
+</div>
+
+    
+    
+<!--ANDERSEN, STEVEN-->
+<!--Desktop-->
+<div class="andersen-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec7e3c53f876004b5afd/1587801214580/andersen_steven.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec7e3c53f876004b5afd/1587801214580/andersen_steven.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="andersen-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec7e3c53f876004b5afd/1587801214580/andersen_steven.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+
+    
+    
+<!--ANDREGG, MALORIE-->
+<!--Desktop-->
+<div class="andregg-d">
+  <a href="https://malorieroxanne.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec83dd547546870cd123/1587801221785/andregg_malorie.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec83dd547546870cd123/1587801221785/andregg_malorie.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="andregg-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec83dd547546870cd123/1587801221785/andregg_malorie.jpg">
+  <a href="https://malorieroxanne.com/">Website</a>
+</div>
+   
+    
+    
+<!--ARUTA, KATRINA-->
+<!--Desktop-->
+<div class="aruta-d">
+  <a href="https://kutitap.me/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec8dac0d925270c09bad/1587801231446/aruta_katrina.jpg" onmouseover="this.src='HOVERHERE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec8dac0d925270c09bad/1587801231446/aruta_katrina.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="aruta-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec8dac0d925270c09bad/1587801231446/aruta_katrina.jpg">
+  <a href="https://kutitap.me/">Website</a>
+</div>
+   
+    
+    
+<!--ASGHARI, MAHAN-->
+<!--Desktop-->
+<div class="asghari-d">
+  <a href="https://mahanasghari.myportfolio.com/work"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec9f2fec9937a43b76db/1587801249614/asghari_mahan.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec9f2fec9937a43b76db/1587801249614/asghari_mahan.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="asghari-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ec9f2fec9937a43b76db/1587801249614/asghari_mahan.jpg">
+  <a href="https://mahanasghari.myportfolio.com/work">Website</a>
+</div>
+   
+    
+    
+<!--BILLS, JT-->
+<!--Desktop-->
+<div class="bills-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f2e700047c5743a7ac69/1587802855923/bills_jt.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f2e700047c5743a7ac69/1587802855923/bills_jt.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="bills-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f2e700047c5743a7ac69/1587802855923/bills_jt.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+ 
+    
+    
+<!--BRUCH, ZACH-->
+<!--Desktop-->
+<div class="bruch-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed122fec9937a43b7c13/1587801363165/bruch_zach.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed122fec9937a43b7c13/1587801363165/bruch_zach.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="bruch-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed122fec9937a43b7c13/1587801363165/bruch_zach.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+   
+
+    
+<!--BUFORD, KISHARA-->
+<!--Desktop-->
+<div class="buford-d">
+  <a href="https://kisharabuford.design/”><"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed1b397d8072ce3eb5de/1587801374739/buford_kishara.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd2287b605f2924434d38/1588384297114/BufordKishara.jpg’'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed1b397d8072ce3eb5de/1587801374739/buford_kishara.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="buford-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed1b397d8072ce3eb5de/1587801374739/buford_kishara.jpg">
+  <a href="https://kisharabuford.design/">Website</a>
+</div>
+   
+    
+
+<!--CASTANON, LYNETTE-->
+<!--Desktop-->
+<div class="castanon-d">
+  <a href="https://lynettispaghetti.com/”><"><img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea61211cffe7b1a4397d43b/1587941909202/castan%CC%83on_lynette.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea90a5eb968bd3f3dd92891/1588136545061/BC_castan%CC%83on_lynette.jpg’'"onmouseout="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea61211cffe7b1a4397d43b/1587941909202/castan%CC%83on_lynette.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="castanon-m">
+  <img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea61211cffe7b1a4397d43b/1587941909202/castan%CC%83on_lynette.jpg">
+  <a href="https://lynettispaghetti.com/">Website</a>
+</div>
+   
+    
+    
+<!--CERVANTES, NOAH-->
+<!--Desktop-->
+<div class="cervantes-d">
+  <a href="https://holyhohos.com/”><"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed20de7df11be0f2b0ba/1587801378198/cervantes_noah.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eac8e68b39a052c23387c05/1588366953485/Cervantes_Noah.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed20de7df11be0f2b0ba/1587801378198/cervantes_noah.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="cervantes-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed20de7df11be0f2b0ba/1587801378198/cervantes_noah.jpg">
+  <a href="https://holyhohos.com/">Website</a>
+</div>
+   
+    
+    
+<!--DELANO, CRISTINA-->
+<!--Desktop-->
+<div class="delano-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea61509d28a01342fafda1c/1587942671376/debano_christina.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd2697b605f29244355ce/1588384361956/debano_cristina.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea61509d28a01342fafda1c/1587942671376/debano_christina.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="delano-m">
+  <img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea61509d28a01342fafda1c/1587942671376/debano_christina.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--DIAZ, LUIS-->
+<!--Desktop-->
+<div class="diaz-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed279bc8f31a11f89f55/1587801387732/diaz_luis.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed279bc8f31a11f89f55/1587801387732/diaz_luis.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="diaz-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed279bc8f31a11f89f55/1587801387732/diaz_luis.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--ESPINOZA, EDWARD-->
+<!--Desktop-->
+<div class="espinoza-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed36ecc98b1707995125/1587801409928/espinoza_edward.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed36ecc98b1707995125/1587801409928/espinoza_edward.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="espinoza-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ed36ecc98b1707995125/1587801409928/espinoza_edward.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+    
+    
+    
+<!--FALONE, DANIELLA-->
+<!--Desktop-->
+<div class="falone-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea6151fee8832657c957163/1587942693052/fallone_daniella.jpg" onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea6151fee8832657c957163/1587942693052/fallone_daniella.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="falone-m">
+  <img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea6151fee8832657c957163/1587942693052/fallone_daniella.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--FARLEY, MEGAN-->
+<!--Desktop-->
+<div class="farley-d">
+  <a href="https://www.meganefarley.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3edd1ee86164ffff74b64/1587801555484/farley_megan.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd2ab0ef55d3237b1c8f1/1588384428984/Farley_Megan.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3edd1ee86164ffff74b64/1587801555484/farley_megan.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="farley-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3edd1ee86164ffff74b64/1587801555484/farley_megan.jpg">
+  <a href="https://www.meganefarley.com/">Website</a>
+</div>
+       
+    
+    
+<!--GEORGEOVICH, SHELBY-->
+<!--Desktop-->
+<div class="georgeovich-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eddc00047c5743a73d93/1587801565184/georgeovich_shelby.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eddc00047c5743a73d93/1587801565184/georgeovich_shelby.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="georgeovich-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eddc00047c5743a73d93/1587801565184/georgeovich_shelby.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--GEZALIAN, KAT-->
+<!--Desktop-->
+<div class="gezelian-d">
+  <a href="https://katherinegezalian.wixsite.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ede6ee86164ffff74e74/1587801576499/gezalian_kat.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd2e8c40da37246bc4b18/1588384489780/gezalian_katherine.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ede6ee86164ffff74e74/1587801576499/gezalian_kat.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="gezelian-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ede6ee86164ffff74e74/1587801576499/gezalian_kat.jpg">
+  <a href="https://katherinegezalian.wixsite.com/">Website</a>
+</div>
+       
+    
+    
+<!--GREEN, NATALIE-->
+<!--Desktop-->
+<div class="green-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee0cee86164ffff75183/1587801613069/green_natalie.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd316534ec14df09addcb/1588384534462/green_natalie.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee0cee86164ffff75183/1587801613069/green_natalie.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="green-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee0cee86164ffff75183/1587801613069/green_natalie.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--GREGG, HEATHER-->
+<!--Desktop-->
+<div class="gregg-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee1836c5d45a8f332319/1587801627244/gregg_heather.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee1836c5d45a8f332319/1587801627244/gregg_heather.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="gregg-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee1836c5d45a8f332319/1587801627244/gregg_heather.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--GONZALEZ, ALFREDO-->
+<!--Desktop-->
+<div class="gonzalez-d">
+  <a href="https://agdesigns1996.myportfolio.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3edef1d0fc8570b1f6724/1587801590430/gonzalez_alfredo.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3edef1d0fc8570b1f6724/1587801590430/gonzalez_alfredo.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="gonzalez-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3edef1d0fc8570b1f6724/1587801590430/gonzalez_alfredo.jpg">
+  <a href="https://agdesigns1996.myportfolio.com/">Website</a>
+</div>
+       
+    
+    
+<!--GUIDI, JULIA-->
+<!--Desktop-->
+<div class="guidi-d">
+  <a href="https://juliaguidi.myportfolio.com/”><"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee271d0fc8570b1f6acb/1587801642013/guidi_julia.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd341e85df0557fa94341/1588384577699/guidi_julia.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee271d0fc8570b1f6acb/1587801642013/guidi_julia.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="guidi-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee271d0fc8570b1f6acb/1587801642013/guidi_julia.jpg">
+  <a href="https://juliaguidi.myportfolio.com/”><">Website</a>
+</div>
+       
+    
+    
+<!--HAN, FIONA-->
+<!--Desktop-->
+<div class="han-d">
+  <a href="https://www.fffiona.com"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee358315084d6db29db8/1587801660073/Han_FanfeiFiona.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd388553856782ac0e084/1588384648520/Han_FanfeiFiona.jpg’'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee358315084d6db29db8/1587801660073/Han_FanfeiFiona.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="han-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee358315084d6db29db8/1587801660073/Han_FanfeiFiona.jpg">
+  <a href="https://www.fffiona.com">Website</a>
+</div>
+       
+    
+    
+<!--HATZOR, AMIT-->
+<!--Desktop-->
+<div class="hatzor-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee469bc8f31a11f8b6c6/1587801679496/hatzor_amit.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd3de534ec14df09afd9c/1588384734404/Hatzor_Amit.jpg’'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee469bc8f31a11f8b6c6/1587801679496/hatzor_amit.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="hatzor-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee469bc8f31a11f8b6c6/1587801679496/hatzor_amit.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--ITO, AMI-->
+<!--Desktop-->
+<div class="ito-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee6b397d8072ce3ecb40/1587801713769/ito_ami.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd416d9408f5afd934259/1588384792737/ito_ami.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee6b397d8072ce3ecb40/1587801713769/ito_ami.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="ito-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee6b397d8072ce3ecb40/1587801713769/ito_ami.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--IWASAWA, KAZU-->
+<!--Desktop-->
+<div class="iwasawa-d">
+  <a href="https://kiwasawa.myportfolio.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8789503f2e480097b1/1587801737573/iwasawa_kazu.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd458c40da37246bc7e6d/1588384856290/Iwasawa_Kazu.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8789503f2e480097b1/1587801737573/iwasawa_kazu.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="iawasawa-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8789503f2e480097b1/1587801737573/iwasawa_kazu.jpg">
+  <a href="https://kiwasawa.myportfolio.com/">Website</a>
+</div>
+       
+    
+    
+<!--KASKLA, AIVAR-->
+<!--Desktop-->
+<div class="kaskla-d">
+  <a href="https://aivarkaskla.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8d3459dd34b668be30/1587801748084/kaskla_aivar.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8d3459dd34b668be30/1587801748084/kaskla_aivar.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="kaskla-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ee8d3459dd34b668be30/1587801748084/kaskla_aivar.jpg">
+  <a href="https://aivarkaskla.com/">Website</a>
+</div>
+       
+    
+    
+<!--KIM, JESH-->
+<!--Desktop-->
+<div class="kim-d">
+  <a href="https://jeshkim.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eeb9b8f35d6c28bac123/1587801789034/kim_jesh.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eeb9b8f35d6c28bac123/1587801789034/kim_jesh.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="kim-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eeb9b8f35d6c28bac123/1587801789034/kim_jesh.jpg">
+  <a href="https://jeshkim.com/">Website</a>
+</div>
+       
+    
+    
+<!--LOPEZ, ANTONIO-->
+<!--Desktop-->
+<div class="lopez-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eec7a9fa910a7d777e7d/1587801811731/lopez_antonio.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd48ba957b826cb8e6391/1588384908514/LopezMartinez_Antonio.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eec7a9fa910a7d777e7d/1587801811731/lopez_antonio.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="lopez-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eec7a9fa910a7d777e7d/1587801811731/lopez_antonio.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+    
+    
+
+<!--MA, SIU-->
+<!--Desktop-->
+<div class="ma-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eeebcb73e05b9e5ff01b/1587801835966/ma_siu.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eeebcb73e05b9e5ff01b/1587801835966/ma_siu.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="ma-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eeebcb73e05b9e5ff01b/1587801835966/ma_siu.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+    
+    
+    
+<!--MOU, SHANON-->
+<!--Desktop-->
+<div class="mou-d">
+  <a href="https://smou.myportfolio.com/”><"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef19ecc98b17079973d3/1587801881894/mou_shannon.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd4bbfae0250e93b57bb5/1588384956306/mou_shannon.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef19ecc98b17079973d3/1587801881894/mou_shannon.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="mou-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef19ecc98b17079973d3/1587801881894/mou_shannon.jpg">
+  <a href="https://smou.myportfolio.com/”><">Website</a>
+</div>
+    
+    
+    
+<!--NGUYEN, QUAINCE-->
+<!--Desktop-->
+<div class="nguyen-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eef336c5d45a8f33318a/1587801843807/nguyen_quaince.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd5c73636036a9fa1ebfb/1588385224306/Nguyen_Quaince.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eef336c5d45a8f33318a/1587801843807/nguyen_quaince.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="nguyen-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3eef336c5d45a8f33318a/1587801843807/nguyen_quaince.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>       
+    
+
+<!--PHAN, ANDREW-->
+<!--Desktop-->
+<div class="phana-d">
+  <a href="https://www.phandrew.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef5aecc98b1707997707/1587801953213/phan_andrew.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd5f37b605f292443e14c/1588385268157/Phan_Andrew.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef5aecc98b1707997707/1587801953213/phan_andrew.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="phana-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef5aecc98b1707997707/1587801953213/phan_andrew.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+    
+    
+    
+<!--PHAN, CAMIE-->
+<!--Desktop-->
+<div class="phanc-d">
+  <a href="https://camiephan.com"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef74397d8072ce3ee0f8/1587801979621/phan_camie.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd627553856782ac14d94/1588385319123/phan_camie.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef74397d8072ce3ee0f8/1587801979621/phan_camie.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="phanc-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef74397d8072ce3ee0f8/1587801979621/phan_camie.jpg">
+  <a href="https://camiephan.com">Website</a>
+</div>
+       
+    
+    
+<!--RAMIREZ, ANNETTE-->
+<!--Desktop-->
+<div class="ramireza-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea614f6cffe7b1a439849c3/1587942654319/ramirez_annette.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd67a41f900399bd049a4/1588385402272/Ramirez_Annette.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea614f6cffe7b1a439849c3/1587942654319/ramirez_annette.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="ramireza-m">
+  <img src="https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea614f6cffe7b1a439849c3/1587942654319/ramirez_annette.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--RAMIREZ, JESUS-->
+<!--Desktop-->
+<div class="ramirezj-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef9aecc98b17079979e1/1587802012204/ramirez_jesus.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacd6c935a4926fb7052fdd/1588385481477/Ramirez_Jesus.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef9aecc98b17079979e1/1587802012204/ramirez_jesus.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="ramirezj-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3ef9aecc98b17079979e1/1587802012204/ramirez_jesus.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--RAMOS, ANAID-->
+<!--Desktop-->
+<div class="ramosa-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efacb1653635c3a7e14f/1587802029231/ramos_anaid.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efacb1653635c3a7e14f/1587802029231/ramos_anaid.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="ramosa-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efacb1653635c3a7e14f/1587802029231/ramos_anaid.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--RAMOS, NIKKI-->
+<!--Desktop-->
+<div class="ramosn-d">
+  <a href="https://nikkiramos.myportfolio.com/”><"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efb6b1653635c3a7e192/1587802039216/ramos_nikki.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efb6b1653635c3a7e192/1587802039216/ramos_nikki.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="ramosn-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efb6b1653635c3a7e192/1587802039216/ramos_nikki.jpg">
+  <a href="https://nikkiramos.myportfolio.com/”><">Website</a>
+</div>
+       
+    
+    
+<!--RICHARDSON, EMILY-->
+<!--Desktop-->
+<div class="richardson-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efdb14bd4f0e74b392a0/1587802084393/richardson_emily.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efdb14bd4f0e74b392a0/1587802084393/richardson_emily.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="richardson-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3efdb14bd4f0e74b392a0/1587802084393/richardson_emily.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--RUSSELL, MARISA-->
+<!--Desktop-->
+<div class="russell-d">
+  <a href="https://www.marisarussell.com/"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f016ac0d925270c0e6e9/1587802139804/russell_marisa.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f016ac0d925270c0e6e9/1587802139804/russell_marisa.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="russell-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f016ac0d925270c0e6e9/1587802139804/russell_marisa.jpg">
+  <a href="https://www.marisarussell.com/">Website</a>
+</div>
+       
+    
+    
+<!--SCHMIDT, JOANNE-->
+<!--Desktop-->
+<div class="schmidt-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f01f397d8072ce3ef317/1587802145839/schmidt_joanne_.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacddd3f65ad02006bd1fbe/1588387286305/Schmidt_JoAnne.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f01f397d8072ce3ef317/1587802145839/schmidt_joanne_.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="schmidt-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f01f397d8072ce3ef317/1587802145839/schmidt_joanne_.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--SHEUM, KIRSTEN-->
+<!--Desktop-->
+<div class="sheum-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f0281de102540e617182/1587802154357/sheum_kirsten.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacdf2b5f50e02b16f03ff6/1588387628129/Sheum_Kirsten.jpg’'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f0281de102540e617182/1587802154357/sheum_kirsten.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="sheum-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f0281de102540e617182/1587802154357/sheum_kirsten.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--WANG, MENGNI-->
+<!--Desktop-->
+<div class="wang-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f10d9bc8f31a11f8e5eb/1587802384720/wang_mengni.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f10d9bc8f31a11f8e5eb/1587802384720/wang_mengni.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="wang-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f10d9bc8f31a11f8e5eb/1587802384720/wang_mengni.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--WEI, HANXI-->
+<!--Desktop-->
+<div class="wei-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f12c8315084d6db2d736/1587802422707/wei_hanxi.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacdfa63636036a9fa35f7c/1588387750915/Wei_Hanxi.jpg’'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f12c8315084d6db2d736/1587802422707/wei_hanxi.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="wei-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f12c8315084d6db2d736/1587802422707/wei_hanxi.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--WHITT, DONNA-->
+<!--Desktop-->
+<div class="whitt-d">
+  <a href="WEBSITELINK"><img src="ttps://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5ea426b18315084d6db703c8/1587816113292/Small.jpg'"onmouseout="this.src='ttps://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="whitt-m">
+  <img src="ttps://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f14689503f2e4800d744/1587802453207/whitt_donna.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--WOWOR, REGITA-->
+<!--Desktop-->
+<div class="wowor-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f16dac0d925270c0ff35/1587802477850/wowor_regita.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f16dac0d925270c0ff35/1587802477850/wowor_regita.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="wowor-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f16dac0d925270c0ff35/1587802477850/wowor_regita.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--VILLA, ANGELA-->
+<!--Desktop-->
+<div class="villa-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f04c14bd4f0e74b39af7/1587802199344/villa_angela.jpg"       onmouseover="this.src='HOVERIMAGE'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f04c14bd4f0e74b39af7/1587802199344/villa_angela.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="villa-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f04c14bd4f0e74b39af7/1587802199344/villa_angela.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+       
+    
+    
+<!--YOSHIMURA, MADELEINE-->
+<!--Desktop-->
+<div class="yoshimura-d">
+  <a href="WEBSITELINK"><img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f18cac0d925270c100e8/1587802513048/yoshimura_madeleine.jpg"       onmouseover="this.src='https://static1.squarespace.com/static/5ea20b65baa6c52b863f01c2/t/5eacdfd22bffcf20e6db2f6d/1588387794616/yoshimura_madeleine.jpg'"onmouseout="this.src='https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f18cac0d925270c100e8/1587802513048/yoshimura_madeleine.jpg'"></a>
+</div>
+<!--Mobile-->
+<div class="yoshimura-m">
+  <img src="https://static1.squarespace.com/static/5ea3e3568a22135afc6e61fd/t/5ea3f18cac0d925270c100e8/1587802513048/yoshimura_madeleine.jpg">
+  <a href="WEBSITELINK">Website</a>
+</div>
+    
+    
+    
+    
+</body>
+</html>
